@@ -26,7 +26,7 @@ Contents
    :caption: Tutorials
 
    notebook/Quick installation.rst
-   notebook/Tutorial_new.ipynb
+   notebook/Tutorial.ipynb
 
 
 Indices and tables 
